@@ -1,0 +1,24 @@
+
+BASIC Questions - SELECT statement
+
+#1 Find Max. Quantity sold in a Transaction.
+#2 Find Unique Products in all the Transactions.
+#3 Also, Find the Unique Properties.
+
+GROUP BY - Questions
+
+#4 Find the Product Category that has Maximum Products.
+#5 Find the State where Most Stores are present.
+#6 Find the Top 5 ProductID's that did Max. Sales in Terms in Quantity.
+#7 Similarly, Find the TOp 5 PropertyID's that did Max. Quantity.
+
+INTERMEDIATE Questions - JOINS and GROUP BY
+
+#8 Find the Top 5 Product Names that did Max. Sales in terms of Quantity.
+	#8.1 Then Find the Top 5 Product that did Max. Sales.
+#9 Find the Top 5 Cities that did Max. Sales.
+
+ADVANCED Questions - JOINS and GROUP BY
+
+#10 Find the Top 5 Products in each of the Cities.
+	#10.1 What will it LOOK LIKE for States.
